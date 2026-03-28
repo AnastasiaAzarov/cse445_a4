@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+
+  <NationalPark Rating="4.8">
+    <Name>Acadia</Name>
+    <Phone>207-288-3338</Phone>
+    <Address NearestAirport="Bangor">
+      <Number>20</Number>
+      <Street>McFarland Hill Drive</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Arches</Name>
+    <Phone>435-719-2299</Phone>
+    <Phone>435-259-8825</Phone>
+    <Address NearestAirport="Canyonlands">
+      <Number>N Hwy 191</Number>
+      <Street>Highway 191</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Biscayne</Name>
+    <Phone>305-230-1144</Phone>
+    <Address NearestAirport="Miami">
+      <Number>9700</Number>
+      <Street>SW 328th Street</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33033</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Bryce Canyon</Name>
+    <Phone>435-834-5322</Phone>
+    <Address NearestAirport="BryceCanyon">
+      <Number>1</Number>
+      <Street>Bryce Canyon National Park Road</Street>
+      <City>Bryce</City>
+      <State>UT</State>
+      <Zip>84764</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Canyonlands</Name>
+    <Phone>435-719-2313</Phone>
+    <Address NearestAirport="Canyonlands">
+      <Number>2282</Number>
+      <Street>SW Resource Boulevard</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.6">
+    <Name>Death Valley</Name>
+    <Phone>760-786-3200</Phone>
+    <Phone>760-786-2331</Phone>
+    <Address NearestAirport="LasVegas">
+      <Number>1</Number>
+      <Street>Highway 190</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Everglades</Name>
+    <Phone>305-242-7700</Phone>
+    <Address NearestAirport="Miami">
+      <Number>40001</Number>
+      <Street>State Road 9336</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33034</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Glacier</Name>
+    <Phone>406-888-7800</Phone>
+    <Address NearestAirport="GlacierPark">
+      <Number>64</Number>
+      <Street>Grinnell Drive</Street>
+      <City>West Glacier</City>
+      <State>MT</State>
+      <Zip>59936</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Grand Teton</Name>
+    <Phone>307-739-3300</Phone>
+    <Address NearestAirport="JacksonHole">
+      <Number>103</Number>
+      <Street>Headquarters Loop</Street>
+      <City>Moose</City>
+      <State>WY</State>
+      <Zip>83012</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Phone>865-436-1294</Phone>
+    <Address NearestAirport="McGheeTyson">
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalParks>

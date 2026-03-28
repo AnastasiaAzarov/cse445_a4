@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Acadia</Name>
+    <Phone>207-288-3338</Phone>
+    <Address>
+      <Number>20</Number>
+      <Street>McFarland Hill Drive</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Arches</Name>
+    <Address NearestAirport="Canyonlands">
+      <Number>N Hwy 191</Number>
+      <Street>Highway 191</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Biscayne</Name>
+    <Phone>305-230-1144</Phone>
+    <Address NearestAirport="Miami">
+      <Number>9700</Number>
+      <Street>SW 328th Street</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33033</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Bryce</Name>
+    <Name>Bryce Canyon</Name>
+    <Phone>435-834-5322</Phone>
+    <Address NearestAirport="BryceCanyon">
+      <Number>1</Number>
+      <Street>Bryce Canyon National Park Road</Street>
+      <City>Bryce</City>
+      <State>UT</State>
+      <Zip>84764</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Canyonlands</Name>
+    <Phone>435-719-2313</Phone>
+    <Address NearestAirport="Canyonlands">
+      <Number>2282</Number>
+      <Street>SW Resource Boulevard</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+
+</NationalPark>
