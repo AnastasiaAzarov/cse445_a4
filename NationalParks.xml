@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks>
-
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://anastasiaazarov.github.io/cse445_a4/NationalParks.xsd">
   <NationalPark Rating="4.8">
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
